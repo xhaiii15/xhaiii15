@@ -35,4 +35,4 @@ I am a **Full-Stack Developer** based in the Philippines, specializing in buildi
 ---
 
 ### ⚡ Fun Fact
-*When I'm not debugging, I’m likely hanging out with cats. :>*
+*When I'm not coding or debugging, I’m likely hanging out with cats or play pool(billiards). :>*
