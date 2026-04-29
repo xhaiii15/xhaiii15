@@ -27,12 +27,5 @@ I am a **Full-Stack Developer** based in the Philippines, specializing in buildi
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xhaiii15&show_icons=true&theme=transparent&hide_border=true" alt="Charlie's Stats" width="400" />
-</p>
-
----
-
 ### ⚡ Fun Fact
 *When I'm not coding or debugging, I’m likely hanging out with cats or play pool(billiards). :>*
