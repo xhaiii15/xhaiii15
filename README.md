@@ -1,21 +1,36 @@
-<h1 align="center">Hi 👋, I'm Charlie Melorin</h1>
-<h3 align="center">A passionate Full Stack developer from Philippines</h3>
+# Hi there, I'm Charlie Melorin 👋
 
+I am a **Full-Stack Developer** based in the Philippines, specializing in building scalable, secure, and user-centric web and mobile applications. My expertise lies in the **MERN Stack** and cross-platform mobile development with **React Native**.
 
+### 🛠️ Core Tech Stack
 
-- 🔭 I’m currently working on **Our Capstone**
+- **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript
+- **Backend:** Node.js, Express.js, Supabase
+- **Mobile:** React Native (with Expo)
+- **Database:** MongoDB, PostgreSQL
+- **Tools:** Git, Postman, Figma, Docker
 
-- 👨‍💻 All of my projects are available at [https://github.com/xhaiii15](https://github.com/xhaiii15)
+---
 
-- 📫 How to reach me **charliemelorin1@gmail.com**
+### 📈 Current Focus
+- 🏗️ Architecting performance-driven applications with a focus on **Security & Defense in Depth**.
+- 📱 Developing **Usap**, a real-time messaging application leveraging React Native and Supabase.
+- 🤖 Integrating **AI-driven workflows** to optimize development and code refactoring.
 
-- ⚡ Fun fact **I love cats :>**
-
-<h3 align="left">Connect with me:</h3>
+### 🔗 Connect with me
 <p align="left">
+  <a href="mailto:charliemelorin1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/xhaiii15"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=xhaiii15&show_icons=true&theme=transparent&hide_border=true" alt="Charlie's Stats" width="400" />
+</p>
 
+---
+
+### ⚡ Fun Fact
+*When I'm not debugging, I’m likely hanging out with cats. :>*
