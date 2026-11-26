@@ -6,7 +6,7 @@
 
 <p>
   Building secure, scalable web and mobile apps<br>
-  with the MERN stack and React Native.
+  with the MERN, PERN stack and React Native.
 </p>
 
 <br>
